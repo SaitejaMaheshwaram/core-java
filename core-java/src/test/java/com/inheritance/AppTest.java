@@ -1,4 +1,4 @@
-package com.core.java;
+package com.inheritance;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
